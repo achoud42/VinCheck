@@ -29,8 +29,7 @@ Provide definitions the reader should understand before reading on.<br/>
 The project requires all the data to be imported into the database. This database will be queried for a search string to give the intended output. 
 # 3. System Features and Requirements
 ## 3.1 Database Design
-![Alt text](images/db.png?raw=true "Optional Title")
-The database will have a single table which has the vin and the metadata.
+The database will have a single table [vehicle_listings table](https://passimage.in/i/12ffbf4d2efbe610e5ea.png) which has the vin and the metadata.
 The name of the db will be vinaudit
 we will upload CSV file to create a table named 'vehicle_listings'. we will search our vin from this table.
 
@@ -39,7 +38,7 @@ we will upload CSV file to create a table named 'vehicle_listings'. we will sear
 ## 3.2 External Interface Requirements
 
 There will be a search bar  to enter the VIN and on clicking the search button the UI will display the desired result.
-like (this)[https://passimage.in/i/8a3a1cd2b0de40401aa0.png]
+like [this](https://passimage.in/i/8a3a1cd2b0de40401aa0.png)
 
 In the above url the search variable can be modified with the vin number to get the vehicle details.
 
