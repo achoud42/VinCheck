@@ -73,7 +73,7 @@ Route::get('/', function () {
 ```
 
 #### 3.3.3 Database Directory </br>
-  Here we have  database directory contains your database migrations, model factories, and seeds.
+  Here we have  database directory contains our database migrations, model factories, and seeds.
   we use it to migarte and publish data to table .
 
 
