@@ -76,9 +76,14 @@ Route::get('/', function () {
 
 ```
 
-#### 3.3.3 Database Directory </br>
-  Here we have  database directory contains our database migrations, model factories, and seeds.
-  we use it to migarte and publish data to table .
+#### 3.3.3 Model Class </br>
+  Model class is responsible to interact with underlying database tables. 
+  ```
+  class VehicleListing extends Model
+{
+    use HasFactory;
+}
+```
 
 
 
