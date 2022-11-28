@@ -2,9 +2,13 @@
 # Vinsearch
 
 # Software Requirements
+
 Vin Search Tool
-Company: VinAudit, inc
-Created By: Anurag Choudhary
+Company: VinAudit, inc  </br>
+Created By: Anurag Choudhary </br>
+PHP Version -PHP 8.1.10   </br>
+Framework - Lavarel 8  </br> 
+Code Editor Tool- VS Code </br>
 
 # 1. Introduction
 # 1.1 Purpose
